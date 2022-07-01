@@ -5,10 +5,26 @@ h1{
     font-weight: 900;
 }
 
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
 .container-fluid{
-    padding: 3% 15%
+    padding: 3% 15%;
+}
+
+.navbar{
+    margin-bottom: 3rem;
 }
 
 #title{
-    background-color: #ff4c68
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+/* navigation bar */
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
 }
